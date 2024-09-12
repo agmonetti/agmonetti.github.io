@@ -40,13 +40,14 @@ header {
   
 }
 .hero h1 {
-    font-size: 80px;
+    font-size: 120px;
+    font-style: bold;
     padding: 0;
     margin: 0;
 }
 
 .hero p {
-    font-size:20px;
+    font-size:25px;
 }
 
 .hero nav {
@@ -146,10 +147,10 @@ main article h2 {
 }
 
 .catalogo a:visited {
-    color: #0000ff;
+    color: #000000;
 }
 a:hover {
-    color: #0000ff;
+    color: #000000;
     
 }
 #catalogo img {
